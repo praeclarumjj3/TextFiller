@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TextFiller.iml" filepath="$PROJECT_DIR$/TextFiller.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textfill/textfill.iml" filepath="$PROJECT_DIR$/textfill/textfill.iml" />
     </modules>
   </component>
 </project>
